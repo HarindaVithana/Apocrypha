@@ -37,16 +37,16 @@ class sell extends Component {
                 onChange={this.handleChange}
                 className="form-control"
               >
-                <option value="grapefruit">Biology</option>
-                <option value="lime">Physics</option>
-                <option value="coconut">Chemistry</option>
-                <option value="mango">Software</option>
-                <option value="mango">Hardware</option>
-                <option value="mango">Accounting</option>
-                <option value="mango">Music</option>
-                <option value="mango">Arts</option>
-                <option value="mango">Litratue</option>
-                <option value="mango">Other</option>
+                <option value="biology">Biology</option>
+                <option value="physics">Physics</option>
+                <option value="chemistry">Chemistry</option>
+                <option value="software">Software</option>
+                <option value="hardware">Hardware</option>
+                <option value="accounting">Accounting</option>
+                <option value="music">Music</option>
+                <option value="arts">Arts</option>
+                <option value="litrature">Litratue</option>
+                <option value="other">Other</option>
               </select>
             </div>
             <div className="form-group">
